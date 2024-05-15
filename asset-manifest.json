@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58032a61.css",
+    "main.js": "/static/js/main.fe83fece.js",
+    "static/js/453.b257d6e6.chunk.js": "/static/js/453.b257d6e6.chunk.js",
+    "static/media/mission-3.jpg": "/static/media/mission-3.f14acd058b5b9eb4e39f.jpg",
+    "static/media/footer-1.png": "/static/media/footer-1.063045bc2b8e36d19685.png",
+    "static/media/agriculture_4.jpg": "/static/media/agriculture_4.3cc4911ae781cf036c99.jpg",
+    "static/media/1.jpg": "/static/media/1.7c2f2b8c75e03a01cfab.jpg",
+    "static/media/2.jpg": "/static/media/2.a41825034e23aad03ea4.jpg",
+    "static/media/3.jpg": "/static/media/3.49fb92f2bdfa03963057.jpg",
+    "static/media/quote-bg.jpg": "/static/media/quote-bg.3f0f25fdd2e8fa8e6843.jpg",
+    "static/media/subscribe.jpg": "/static/media/subscribe.74042697845bf0763864.jpg",
+    "static/media/4.jpg": "/static/media/4.3cc5de38b6753dcae5f1.jpg",
+    "static/media/5.jpg": "/static/media/5.171cfdd1ae5ac06676db.jpg",
+    "static/media/Shamba Logo.png": "/static/media/Shamba Logo.957fb8800347dc522d87.png",
+    "static/media/l-1.jpg": "/static/media/l-1.ec92d87ea2319a00e88f.jpg",
+    "static/media/bl-1.jpg": "/static/media/bl-1.7c2f2b8c75e03a01cfab.jpg",
+    "static/media/bl-2.jpg": "/static/media/bl-2.7c2f2b8c75e03a01cfab.jpg",
+    "static/media/bl-3.jpg": "/static/media/bl-3.7c2f2b8c75e03a01cfab.jpg",
+    "static/media/bl-4.jpg": "/static/media/bl-4.7c2f2b8c75e03a01cfab.jpg",
+    "static/media/project-details.jpg": "/static/media/project-details.7c2f2b8c75e03a01cfab.jpg",
+    "static/media/testimonial-1.png": "/static/media/testimonial-1.75ee6c7fd4ae49a5db04.png",
+    "index.html": "/index.html",
+    "main.58032a61.css.map": "/static/css/main.58032a61.css.map",
+    "main.fe83fece.js.map": "/static/js/main.fe83fece.js.map",
+    "453.b257d6e6.chunk.js.map": "/static/js/453.b257d6e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58032a61.css",
+    "static/js/main.fe83fece.js"
+  ]
+}
