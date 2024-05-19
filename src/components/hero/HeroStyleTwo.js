@@ -2,8 +2,8 @@ import React from "react";
 import { FaAngleLeft, FaAngleRight } from "react-icons/fa";
 import { v4 as uuidv4 } from "uuid";
 import Slider from "react-slick";
-import HeroStyleTwoImg1 from "../../assets/images/mission-3.jpg";
-import HeroStyleTwoImg2 from "../../assets/images/agriculture_4.jpg";
+import HeroStyleTwoImg1 from "../../assets/images/tomatoes-2653425_1920.jpg";
+import HeroStyleTwoImg2 from "../../assets/images/potatoes-2329648_1920.jpg";
 
 const HeroStyleTwoData = [
   {
