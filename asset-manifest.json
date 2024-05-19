@@ -1,11 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.58032a61.css",
-    "main.js": "/static/js/main.fe83fece.js",
+    "main.js": "/static/js/main.b0abbcc7.js",
     "static/js/453.b257d6e6.chunk.js": "/static/js/453.b257d6e6.chunk.js",
-    "static/media/mission-3.jpg": "/static/media/mission-3.f14acd058b5b9eb4e39f.jpg",
+    "static/media/fish.jpg": "/static/media/fish.2e231a312f214f7308ad.jpg",
+    "static/media/poules.jpg": "/static/media/poules.955e888e635740377886.jpg",
+    "static/media/legumes.jpg": "/static/media/legumes.4435f91f18d46b70b297.jpg",
+    "static/media/watermelon-551235_1920.jpg": "/static/media/watermelon-551235_1920.33b0f5c87ee9a50c6f31.jpg",
+    "static/media/piment.jpg": "/static/media/piment.98511d3bec9adddf2185.jpg",
+    "static/media/vegetables.jpg": "/static/media/vegetables.9bf26ba98e9a838c7dec.jpg",
+    "static/media/tomatoes-2653425_1920.jpg": "/static/media/tomatoes-2653425_1920.ae0a3a318085ae9109ef.jpg",
+    "static/media/chou.jpg": "/static/media/chou.c37c85e1af96b6ee4842.jpg",
+    "static/media/potatoes-2329648_1920.jpg": "/static/media/potatoes-2329648_1920.d1de13332fc4cd3b64c2.jpg",
+    "static/media/potatoes.jpg": "/static/media/potatoes.d1de13332fc4cd3b64c2.jpg",
+    "static/media/porcs.jpg": "/static/media/porcs.4d557b4088124b108b7f.jpg",
+    "static/media/food_system.jpg": "/static/media/food_system.f64ff2c00501be6d2c8c.jpg",
+    "static/media/tomates.jpg": "/static/media/tomates.ad2756f890584309ec6d.jpg",
     "static/media/footer-1.png": "/static/media/footer-1.063045bc2b8e36d19685.png",
-    "static/media/agriculture_4.jpg": "/static/media/agriculture_4.3cc4911ae781cf036c99.jpg",
+    "static/media/poultry-farming.jpg": "/static/media/poultry-farming.818d9fff4a7cd8d37485.jpg",
     "static/media/1.jpg": "/static/media/1.7c2f2b8c75e03a01cfab.jpg",
     "static/media/2.jpg": "/static/media/2.a41825034e23aad03ea4.jpg",
     "static/media/3.jpg": "/static/media/3.49fb92f2bdfa03963057.jpg",
@@ -23,11 +35,11 @@
     "static/media/testimonial-1.png": "/static/media/testimonial-1.75ee6c7fd4ae49a5db04.png",
     "index.html": "/index.html",
     "main.58032a61.css.map": "/static/css/main.58032a61.css.map",
-    "main.fe83fece.js.map": "/static/js/main.fe83fece.js.map",
+    "main.b0abbcc7.js.map": "/static/js/main.b0abbcc7.js.map",
     "453.b257d6e6.chunk.js.map": "/static/js/453.b257d6e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.58032a61.css",
-    "static/js/main.fe83fece.js"
+    "static/js/main.b0abbcc7.js"
   ]
 }
