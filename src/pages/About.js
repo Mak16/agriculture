@@ -3,7 +3,7 @@ import HeaderTop from "../common/header/HeaderTop";
 import HeaderBottomTwo from "../common/header/HeaderBottomTwo";
 import Breadcrumb from "../components/breadcrumb/Breadcrumb";
 import breadcrumbBg from "../assets/images/food_system.jpg";
-import FooterOne from "../common/footer/FooterOne";
+// import FooterOne from "../common/footer/FooterOne";
 import AboutVideoBlock from "../components/about/AboutVideoBlock";
 import FunFact from "../components/fun-fact/FunFact";
 import AboutExperience from "../components/about/AboutExperience";
@@ -13,6 +13,7 @@ import AboutTeam from "../components/about/AboutTeam";
 import Subscribe from "../components/subscribe/Subscribe";
 import TestimonialStyleTwo from "../components/testimonial/TestimonialStyleTwo";
 import HowItWorkOne from "../components/how-it-work/HowItWorkOne";
+import FooterTwo from "../common/footer/FooterTwo";
 
 export const About = () => {
   return (
@@ -34,7 +35,7 @@ export const About = () => {
       <HowItWorkOne />
       <TestimonialStyleTwo />
       <Subscribe />
-      <FooterOne />
+      <FooterTwo />
     </>
   );
 };
