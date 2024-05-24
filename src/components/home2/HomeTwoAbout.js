@@ -1,5 +1,5 @@
 import React from "react";
-import HomeTwoAboutImg1 from "../../assets/images/about/about-3.jpg";
+import HomeTwoAboutImg1 from "../../assets/images/about/agriculture_4.jpg";
 
 const HomeTwoAbout = () => {
   return (
@@ -11,17 +11,17 @@ const HomeTwoAbout = () => {
               <div className="about-img-style-1">
                 <img src={HomeTwoAboutImg1} alt="" />
                 <div className="about-award">
-                  <h3>We Are Since 2000! Over 200 Awards</h3>
+                  <h3>A votre service depuis 5 ans</h3>
                 </div>
               </div>
             </div>
             <div className="col-xl-6 col-lg-6 col-md-6">
               <div className="about-text-wrapper pt-30">
                 <div className="section-title mb-40">
-                  <span>We are Committed to Landscape Service</span>
+                  <span>Nous nous engageons à vous servir</span>
                   <h2 className="mb-30">
-                    20 years we resarch or how to growth Garden & Landscap
-                    Systems
+                    20 ans de recherche sur la façon de développer les systèmes
+                    agricoles et d'offrir une alimentation saine
                   </h2>
                   <p>
                     All the Lorem Ipsum generators on the Internet tend to
@@ -34,7 +34,7 @@ const HomeTwoAbout = () => {
                   </p>
                 </div>
                 <a href="/" className="l-btn">
-                  Appointment
+                  Rendez-vous
                 </a>
               </div>
             </div>

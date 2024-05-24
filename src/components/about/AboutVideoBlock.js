@@ -20,8 +20,7 @@ const AboutVideoBlock = () => {
           <div className="row">
             <div className="col-xl-6 col-lg-6 col-md-6">
               <h2>
-                Why will you choose our <br /> Garden and Landscape <br />{" "}
-                services
+                Pourquoi choisiez vous <br /> Nos produits et Services
               </h2>
               <p>
                 There are many variations of passages of Lorem Ipsum available,
@@ -33,7 +32,7 @@ const AboutVideoBlock = () => {
                 sections.
               </p>
               <Link to="/" className="l-btn mt-20">
-                appointment
+                Rendez vous
               </Link>
             </div>
             <div className="col-xl-6 col-lg-6 col-md-6">
