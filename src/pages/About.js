@@ -22,9 +22,9 @@ export const About = () => {
       <HeaderBottomTwo />
       <Breadcrumb
         breadcrumbBg={breadcrumbBg}
-        heading="Our Company"
+        heading="Shamba Agriculture"
         description="Nous sommes disponibles 24/7 pour les produits agricoles & La consultance agricole"
-        currentPage="About Us"
+        currentPage="Apropos"
       />
       <AboutVideoBlock />
       <FunFact />
