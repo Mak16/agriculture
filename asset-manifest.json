@@ -1,9 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.58032a61.css",
-    "main.js": "/static/js/main.a2fa02cd.js",
+    "main.js": "/static/js/main.e35b3cba.js",
     "static/js/453.b257d6e6.chunk.js": "/static/js/453.b257d6e6.chunk.js",
-    "static/media/fish.jpg": "/static/media/fish.2e231a312f214f7308ad.jpg",
+    "static/media/moi.png": "/static/media/moi.5b379b5317c44155606a.png",
+    "static/media/arrosage.jpg": "/static/media/arrosage.df33df70d247b5d99a37.jpg",
+    "static/media/fish.jpg": "/static/media/fish.d00a402a4dbd27a938d3.jpg",
     "static/media/poules.jpg": "/static/media/poules.955e888e635740377886.jpg",
     "static/media/legumes.jpg": "/static/media/legumes.4435f91f18d46b70b297.jpg",
     "static/media/watermelon-551235_1920.jpg": "/static/media/watermelon-551235_1920.33b0f5c87ee9a50c6f31.jpg",
@@ -14,19 +16,22 @@
     "static/media/potatoes-2329648_1920.jpg": "/static/media/potatoes-2329648_1920.d1de13332fc4cd3b64c2.jpg",
     "static/media/potatoes.jpg": "/static/media/potatoes.d1de13332fc4cd3b64c2.jpg",
     "static/media/porcs.jpg": "/static/media/porcs.4d557b4088124b108b7f.jpg",
+    "static/media/mission-3.jpg": "/static/media/mission-3.f14acd058b5b9eb4e39f.jpg",
+    "static/media/framer.jpg": "/static/media/framer.e25c5f706bd888105883.jpg",
     "static/media/food_system.jpg": "/static/media/food_system.f64ff2c00501be6d2c8c.jpg",
     "static/media/tomates.jpg": "/static/media/tomates.ad2756f890584309ec6d.jpg",
+    "static/media/plantation.jpg": "/static/media/plantation.e0ab1d7de665c1139a39.jpg",
     "static/media/footer-1.png": "/static/media/footer-1.063045bc2b8e36d19685.png",
     "static/media/poultry-farming.jpg": "/static/media/poultry-farming.818d9fff4a7cd8d37485.jpg",
+    "static/media/agriculture_4.jpg": "/static/media/agriculture_4.3cc4911ae781cf036c99.jpg",
     "static/media/1.jpg": "/static/media/1.7c2f2b8c75e03a01cfab.jpg",
     "static/media/2.jpg": "/static/media/2.a41825034e23aad03ea4.jpg",
     "static/media/3.jpg": "/static/media/3.49fb92f2bdfa03963057.jpg",
     "static/media/quote-bg.jpg": "/static/media/quote-bg.3f0f25fdd2e8fa8e6843.jpg",
     "static/media/subscribe.jpg": "/static/media/subscribe.74042697845bf0763864.jpg",
-    "static/media/4.jpg": "/static/media/4.3cc5de38b6753dcae5f1.jpg",
+    "static/media/4.jpg": "/static/media/4.171cfdd1ae5ac06676db.jpg",
     "static/media/5.jpg": "/static/media/5.171cfdd1ae5ac06676db.jpg",
     "static/media/Shamba Logo.png": "/static/media/Shamba Logo.957fb8800347dc522d87.png",
-    "static/media/l-1.jpg": "/static/media/l-1.ec92d87ea2319a00e88f.jpg",
     "static/media/bl-1.jpg": "/static/media/bl-1.7c2f2b8c75e03a01cfab.jpg",
     "static/media/bl-2.jpg": "/static/media/bl-2.7c2f2b8c75e03a01cfab.jpg",
     "static/media/bl-3.jpg": "/static/media/bl-3.7c2f2b8c75e03a01cfab.jpg",
@@ -35,11 +40,11 @@
     "static/media/testimonial-1.png": "/static/media/testimonial-1.75ee6c7fd4ae49a5db04.png",
     "index.html": "/index.html",
     "main.58032a61.css.map": "/static/css/main.58032a61.css.map",
-    "main.a2fa02cd.js.map": "/static/js/main.a2fa02cd.js.map",
+    "main.e35b3cba.js.map": "/static/js/main.e35b3cba.js.map",
     "453.b257d6e6.chunk.js.map": "/static/js/453.b257d6e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.58032a61.css",
-    "static/js/main.a2fa02cd.js"
+    "static/js/main.e35b3cba.js"
   ]
 }
