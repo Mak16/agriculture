@@ -12,7 +12,7 @@ import FooterTwo from "../common/footer/FooterTwo";
 const ProjectDetails = () => {
   return (
     <>
-      <HeaderTop />
+      {/* <HeaderTop /> */}
       <HeaderBottomTwo />
       <Breadcrumb
         breadcrumbBg={breadcrumbBg}
