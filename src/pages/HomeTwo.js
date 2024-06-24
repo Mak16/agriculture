@@ -13,6 +13,7 @@ import HomeTwoProject from "../components/home2/HomeTwoProject";
 import CtaOne from "../components/cta/CtaOne";
 import TeamStyleOne from "../components/team/TeamStyleOne";
 import QueryFormStyleOne from "../components/query-form/QueryFormStyleOne";
+import CarouselHero from "../components/hero/CarouselHero";
 // import BlogStyleTwo from "../components/blog/BlogStyleTwo";
 // import Subscribe from "../components/subscribe/Subscribe";
 import FooterTwo from "../common/footer/FooterTwo";
@@ -20,9 +21,10 @@ import FooterTwo from "../common/footer/FooterTwo";
 const HomeTwo = () => {
   return (
     <>
-      <HeaderTop />
+      {/* <HeaderTop /> */}
       <HeaderBottomTwo />
-      <HeroStyleTwo />
+      <CarouselHero/>
+      {/* <HeroStyleTwo /> */}
       <SimpleCta />
       <HomeTwoFeature />
       <HomeTwoAbout />

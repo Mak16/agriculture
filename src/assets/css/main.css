@@ -65,6 +65,29 @@ body {
     font-size: 16px;
     overflow-x: hidden;
 }
+.cs_txtColWhite{
+    color: white;
+}
+.cs_font68{
+    
+    font-size: 68px;
+}
+.cs_hd_style{
+    background-color:  #52390695;
+}
+
+.cs_bStyle:before{
+    content: '';
+    display: block;
+    background-image: linear-gradient( 0deg, rgb(82, 57, 6) 0%, rgba(82, 57, 6, 0.5) 47%, rgba(82, 57, 6, 0) 100%, rgba(82, 57, 6, 0) 100%, rgba(82, 57, 6, 0) 100%);
+    background-image: -moz-linear-gradient( 0deg, rgb(82, 57, 6) 0%, rgba(82, 57, 6, 0.5) 47%, rgba(82, 57, 6, 0) 100%, rgba(82, 57, 6, 0) 100%, rgba(82, 57, 6, 0) 100%);
+    background-image: -webkit-linear-gradient( 0deg, rgb(82, 57, 6) 0%, rgba(82, 57, 6, 0.5) 47%, rgba(82, 57, 6, 0) 100%, rgba(82, 57, 6, 0) 100%, rgba(82, 57, 6, 0) 100%);
+    background-image: -ms-linear-gradient( 0deg, rgb(82, 57, 6) 0%, rgba(82, 57, 6, 0.5) 47%, rgba(82, 57, 6, 0) 100%, rgba(82, 57, 6, 0) 100%, rgba(82, 57, 6, 0) 100%);
+    position: absolute;
+    left: 0px;
+    top: 0;
+    z-index: -1;
+}
 
 h1,
 h2,
@@ -521,7 +544,7 @@ textarea:focus {
 }
 
 .main-menu ul li a {
-    color: #523906;
+    color: white;
     font-size: 18px;
     font-weight: 600;
     display: block;
@@ -580,7 +603,7 @@ textarea:focus {
     font-size: 24px;
     font-weight: 700;
     line-height: 70px;
-    color: #523906;
+    color: white;
     font-family: 'Lora', serif;
 }
 
