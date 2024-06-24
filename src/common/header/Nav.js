@@ -8,77 +8,21 @@ const Nav = () => {
         <ul>
           <li>
             <Link to="/">Accueil</Link>
-            {/* <ul className="submenu">
-              <li>
-                <Link to="/">Home 1</Link>
-              </li>
-              <li>
-                <Link to="/home-two">Home 2</Link>
-              </li>
-              <li>
-                <Link to="/home-three">Home 3</Link>
-              </li>
-            </ul> */}
+            
           </li>
           <li>
             <Link to="/about">Apropos</Link>
           </li>
           <li>
             <Link to="/service-one">Services</Link>
-            {/* <ul className="submenu">
-              <li>
-                <Link to="/service-one">Service 1</Link>
-              </li>
-              <li>
-                <Link to="/service-two">Service 2</Link>
-              </li>
-              <li>
-                <Link to="/service-details">Service Details</Link>
-              </li>
-            </ul> */}
+            
           </li>
           <li>
             <Link to="/gallery">Gallerie</Link>
-            {/* <ul className="submenu">
-              <li>
-                <Link to="/project-one">Project 1</Link>
-              </li>
-              <li>
-                <Link to="/project-two">Project 2</Link>
-              </li>
-              <li>
-                <Link to="/project-details">Project Details</Link>
-              </li>
-              <li>
-                <Link to="/team">Team</Link>
-              </li>
-              <li>
-                <Link to="/gallery">Gallery</Link>
-              </li>
-              <li>
-                <Link to="/pricing">Pricing</Link>
-              </li>
-              <li>
-                <Link to="/faq">FAQ</Link>
-              </li>
-              <li>
-                <Link to="/error">404</Link>
-              </li>
-            </ul> */}
+           
           </li>
           <li>
             <Link to="/blog">Nos Produits</Link>
-            {/* <ul className="submenu">
-              <li>
-                <Link to="/blog">Blog</Link>
-              </li>
-              <li>
-                <Link to="/blog-list">Blog List</Link>
-              </li>
-              <li>
-                <Link to="/blog-details">Blog Details</Link>
-              </li>
-            </ul> */}
           </li>
           <li>
             <Link to="/contact">Contact</Link>
