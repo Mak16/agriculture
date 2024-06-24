@@ -1,19 +1,31 @@
-import React from 'react';
-import {Link} from 'react-router-dom';
-import { FaPhoneAlt } from 'react-icons/fa';
+import React from "react";
+import { Link } from "react-router-dom";
+import { FaWhatsapp } from "react-icons/fa";
 
 const ContactWidget = () => {
-    return (
-        <>
-            <div className="widget contact-widget mb-60">
-                <span>Gardening Excellence!</span>
-                <h3 className="widget-title">Expanded Gardening Services Fits All needs</h3>
-                <p>The processes and systems we put in place provide high quality service with a focus on safety.</p>
-                <Link to="/" className="l-contact-btn"><span><FaPhoneAlt /></span> Dail To Call</Link>
-                <h3><Link to="/">+88 01061 345</Link></h3>
-            </div>
-        </>
-    )
-}
+  return (
+    <>
+      <div className="widget contact-widget mb-60">
+        <span>Mangez Bio!</span>
+        <h3 className="widget-title">
+          Produits sains pour toute votre famille!!
+        </h3>
+        <p>
+          Les Produits que nous mettons à votre disposition sont de haute
+          qualité axé sur la sécurité.
+        </p>
+        <Link to="tel:243825505783" className="l-contact-btn">
+          <span>
+            <FaWhatsapp />
+          </span>{" "}
+          Whatsapp
+        </Link>
+        {/* <h3>
+          <Link to="tel:243825505783">+243 825 505 783</Link>
+        </h3> */}
+      </div>
+    </>
+  );
+};
 
 export default ContactWidget;
